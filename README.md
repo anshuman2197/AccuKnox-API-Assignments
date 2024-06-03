@@ -12,3 +12,5 @@ Installation Steps:
 6. Run the migrate command.
 7. Create a Superuser.
 8. After No issue Run the server.
+9. Accuknox.postman_collection is a postman file.
+   
